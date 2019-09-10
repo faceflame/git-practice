@@ -1,6 +1,6 @@
 GIT TERMINOLOGY AND CONFIGURATION
 
-kol
+kol ////aab
 
 folder: a special place where we can save files and folders in an organized manner
 
