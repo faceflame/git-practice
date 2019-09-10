@@ -1,0 +1,73 @@
+GIT TERMINOLOGY AND CONFIGURATION
+
+kol
+
+folder: a special place where we can save files and folders in an organized manner
+
+	to create a folder in windows, right click and then select `new` and then `folder`. 
+
+	path: where every single file or folder is located at. Its exact location. 
+
+	command: giving order to the computer
+
+	Powershell: an application, controls the administration of our computer.
+
+	why we should learn?
+		some options in computer has to be executed through command line. 
+
+	Basic Commands: 
+
+		In `Type Here to Search` on start menu, type `power shell`. Then hit Enter. Then click on the app icon. 
+
+		cd: used to change directory ("cd directory name")
+		ls: display all folders and files in the current directory
+		clear: clears the terminal without changing the home directory 
+        cd ~: changes the directory to home directory
+        pwd: (print working directory - PWD) shows which directory you are at. 
+        cd -: go back 
+
+        HOW TO CREATE A FOLDER? in Power Shell
+        mkdir `file name`. then click Enter
+        mkdir: make directory
+        md: same in windows powershell
+
+        HOW TO CREATE A FILE?
+        	cmd filename.type
+        	new-item filename.type Enter (windows)
+
+       HOW TO DELETE A FOLDER?
+
+       		rmdir foldername (for an empty folder)
+       		rm -r foldername (for a non empty folder)
+       		rm -rf foldername (remove forcefully)
+
+
+       		Windows : search Run
+       							%temp%
+       							delete anyhting in it
+
+       	HOW TO DELETE A FILE?
+       			rm filename
+       			rm -f filename (for windows)
+
+
+       		download JDK: java development kit
+
+^^&*(_+)
+
+Notes: 
+  files: used for containing or storing data.
+  different file types:
+
+
+    file name   extension (ends with)
+  
+    text files    .txt
+    PDF files   .pdf
+    Excel     .xlsx
+    Word      .docx
+    Power Point   .ppt
+    Pictures    .jpg, png, gif, ....etc.
+    Java      .java
+    Properties    .properties
+    .....     .html
