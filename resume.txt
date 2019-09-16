@@ -9,3 +9,5 @@ school : London School of Economics
 
 impact : study of Islam and Muslim world
 
+notes : a great thinker going beyond traditional notions of power.
+
