@@ -2,3 +2,7 @@ name : Edward
 lastname : Said
 
 area: Oriental Studies
+
+nationality : Lebanon
+
+impact : London School of Economics
