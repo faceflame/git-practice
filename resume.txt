@@ -1,2 +1,4 @@
 name : Edward
 lastname : Said
+
+area: Oriental Studies
