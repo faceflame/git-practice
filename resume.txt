@@ -5,4 +5,7 @@ area: Oriental Studies
 
 nationality : Lebanon
 
-impact : London School of Economics
+school : London School of Economics
+
+impact : study of Islam and Muslim world
+
